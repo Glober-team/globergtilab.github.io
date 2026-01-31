@@ -1,4 +1,4 @@
-# Glober GTI Lab — Global Talent Intelligence
+# Glober GTI Lab — Global Talent Intelligence Laboratory
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Multi--Agent%20System-6366f1?style=for-the-badge&logo=openai&logoColor=white" alt="AI Multi-Agent">
